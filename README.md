@@ -7,7 +7,7 @@
 <li>Node</li>
 <li>React<li>
 </ul>
-##Objectives
+## Objectives
 <ul>
 <li>Build an project from scratch using only the docs</li>
 <li>Write a Journal to document the process of building this</li>
